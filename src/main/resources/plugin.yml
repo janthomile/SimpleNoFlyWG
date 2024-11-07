@@ -1,0 +1,6 @@
+name: supermemnon.simplenofly.SimpleNoFly
+version: 1.0
+author: Supermemnon
+main: supermemnon.simplenofly.SimpleNoFly
+api-version: '1.16'
+depend: [WorldGuard,WorldEdit]
