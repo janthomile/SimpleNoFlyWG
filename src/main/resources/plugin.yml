@@ -1,5 +1,5 @@
 name: supermemnon.simplenofly.SimpleNoFly
-version: 1.0
+version: 1.1
 author: Supermemnon
 main: supermemnon.simplenofly.SimpleNoFly
 api-version: '1.16'

@@ -51,7 +51,6 @@ public class SimpleNoFly extends JavaPlugin {
             if (region.getFlag(flyFlag) != null && region.getPriority() >= highest) {
                 flag = region.getFlag(flyFlag) == StateFlag.State.ALLOW;
                 highest = region.getPriority();
-                break;
             }
         }
         return flag;
